@@ -1,0 +1,18 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package br.edu.fatecfranca.projeto5.exe01;
+
+/**
+ *
+ * @author 1090482013036
+ */
+public class Animal {
+    public void Come(){
+        System.out.println("Comendo...");}
+    
+    public void Respira(){
+        System.out.println("Respirando...");
+    }
+}
