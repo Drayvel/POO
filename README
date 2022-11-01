@@ -1,0 +1,11 @@
+criar projeto noov
+criar banco de dados novo
+
+Carro
+ - Long id
+ - String marca
+ - String modelo
+ - int ano
+ - float potencia
+ 
+Fazer APIs com CRUD da entidade acima: insere, remove, consulta e atualiza
