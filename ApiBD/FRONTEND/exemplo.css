@@ -1,0 +1,23 @@
+.primeira{
+    background-color: red;
+    margin: 10px;
+    padding: 10px;
+    width: 825px;
+    height: 20px;
+}
+
+.segunda{
+    background-color: green;
+    margin: 10px;
+    padding: 10px;
+    width: 825px;
+    height: 20px;
+}
+
+.terceira{
+    background-color: blue;
+    margin: 10px;
+    padding: 10px;
+    width: 825px;
+    height: 20px;
+}
